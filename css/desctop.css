@@ -1,0 +1,39 @@
+         @import url('https://fonts.googleapis.com/css2?family=Cantarell:wght@400;700&display=swap');
+         p{
+         margin: 0;
+         }
+         .background-image{
+         background-image: url("https://res.cloudinary.com/dvzfz81yf/image/upload/v1624437197/emails/Hero_1.jpg"); /* The image used */
+         background-color: #cccccc; /* Used if the image is unavailable */
+         height: 265px; /* You must set a specified height */
+         background-position: center; /* Center the image */
+         background-repeat: no-repeat; /* Do not repeat the image */
+         background-size: cover; /* Resize the background image to cover the entire container */
+         }
+         .card-pedding{
+         padding: 0px 75px 0px 75px;
+         }
+         .card-border{
+         border-radius: 13px;
+         }
+         .image-boreder{
+         border-radius: 13px 13px 0px 0px;
+         }
+         .class-group-1{
+         margin: 0px 0px 22px 0px;
+         width: 48%;
+         }
+         .class-group-2{
+         margin: 0px 0px 22px 0px;
+         width: 48%;
+         }
+         .pedding{
+         display: inline-block;
+         width: 2%;
+         }
+         .fotter-text{
+         padding: 0px 75px 0px 75px;
+         }
+         .divider{
+         padding: 0px 75px 0px 75px;
+         }
